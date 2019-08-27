@@ -13,7 +13,10 @@ Tài chính là một phạm trù kinh tế, phạm trù lịch sử.  Sự ra �
 
 ### 1.1.2. Bản chất của tài chính
 
-
+Tài chính là phạm trù phân phối dưới hình thái giá trị - tiền tệ nhưng tài chính không phải là tiền tệ. Tiền tệ chỉ là phương tiện biểu hiện các quan hệ tài chính. 
+Bản chất của tài chính có thể xác định trên các khía cạnh sau:
+- Tài chính là những quan hệ kinh tế nhưng không phải mọi quan hệ kinh tế trong xã hội đều thuộc phạm trù tài chính. Tài chính chỉ bao gồm những quan hệ phân phối dưới hình thái giá trị.
+- Tài chính là những quan hệ phân phối phát sinh trong quá trình hình thành và sử dụng các quỹ tiền tệ.
 
 ## 1.2. Chức năng của tài chính
 
