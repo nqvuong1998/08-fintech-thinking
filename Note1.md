@@ -2,6 +2,14 @@
 
 https://www.slideshare.net/NguynTunAnh2/bi-tho-lun-mn-l-thuyt-ti-chnh-tin-t-20130227-nhm-6edited
 
+https://traderviet.com/threads/mat-gia-tien-te-la-gi-vi-sao-cac-quoc-gia-co-tinh-giam-gia-tri-dong-tien-cua-minh.3986/
+
+https://www.youtube.com/watch?v=IXlI9e3lQEI
+
+https://www.youtube.com/watch?v=39FYDXSJcls
+
+Chứng khoán, bitcoin, lạm phát, thuế, lệ phí, vay nợ chính phủ, nợ công
+
 - Hiểu được bản chất của tiền tệ và các hình thái của nó.
 
 - Tìm hiểu kiến thức lý luận cơ bản, tổng quan về tài chính - tiền tệ và những nội dung chủ yếu của các hoạt động tài chính - tiền tệ.
