@@ -19,25 +19,18 @@ Chứng khoán, bitcoin, lạm phát, thuế, lệ phí, vay nợ chính phủ, 
 # 1. Bản chất, chức năng và vai trò của tài chính
 
 ## 1.1. Bản chất của tài chính
-
 ### 1.1.1. Sự ra đời, tồn tại và phát triển của tài chính
-
 ### 1.1.2. Bản chất của tài chính
 
 ## 1.2. Chức năng của tài chính
-
 ### 1.2.1. Chức năng phân phối
-
 ### 1.2.2. Chức năng giám đốc
 
 ## 1.3. Vai trò của tài chính
-
 ### 1.3.1. Là công cụ phân phối hữu hiệu trong nền kinh tế - xã hội
-
 ### 1.3.2. Là công cụ điều tiết hoạt động kinh tế - xã hội
 
 ## 1.4. Cấu trúc của hệ thống tài chính
-
 ### 1.4.1. Ngân sách nhà nước
 ### 1.4.2. Tài chính doanh nghiệp
 ### 1.4.3. Tài chính dân cư, hộ gia đình và các tổ chức xã hội
