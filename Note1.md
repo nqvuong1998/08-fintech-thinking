@@ -1,5 +1,7 @@
 # Lý thuyết tài chính tiền tệ
 
+https://www.slideshare.net/NguynTunAnh2/bi-tho-lun-mn-l-thuyt-ti-chnh-tin-t-20130227-nhm-6edited
+
 - Hiểu được bản chất của tiền tệ và các hình thái của nó.
 
 - Tìm hiểu kiến thức lý luận cơ bản, tổng quan về tài chính - tiền tệ và những nội dung chủ yếu của các hoạt động tài chính - tiền tệ.
