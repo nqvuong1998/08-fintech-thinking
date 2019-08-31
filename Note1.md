@@ -10,6 +10,8 @@ https://www.youtube.com/watch?v=39FYDXSJcls
 
 https://www.thesaigontimes.vn/266336/Xu-ly-tinh-trang-ne-thue-cua-cac-cong-ty-da-quoc-gia.html
 
+http://cafef.vn/su-dung-von-vay-oda-banh-hay-bay-2018082707132576.chn
+
 Chứng khoán, bitcoin, lạm phát, thuế, lệ phí, vay nợ chính phủ, nợ công
 
 - Hiểu được bản chất của tiền tệ và các hình thái của nó.
@@ -19,8 +21,6 @@ Chứng khoán, bitcoin, lạm phát, thuế, lệ phí, vay nợ chính phủ, 
 - Nắm được các khái niệm liên quan như cung cầu tiền tệ, chính sách tiền tệ, lạm phát, tín dụng, hệ thống tài chính, thị trường tài chính....
 
 # 1. Bản chất, chức năng và vai trò của tài chính
-
-Có một câu hỏi mà chắc hẳn nhiều người vẫn tự hỏi là tại sao tiền Việt có giá trị gần thấp nhất thế giới? Tuy vậy, điều đó không có nghĩa là chúng ta nghèo gần nhất thế giới. Đó là một suy nghĩ sai lầm. Chúng ta cần nhìn nhận rằng, một đồng tiền được cho là đắt hay rẻ không có nhiều ý nghĩa mà điều quan trọng là tỷ giá của đồng tiền đó so với các đồng tiền mạnh khác hàng năm cũng như sự minh bạch trong chính sách tiền tệ của quốc gia đó, người dân ở quốc gia đó có chất lượng và mức sống ra sao. Mọi người hay chú trọng đến tỷ giá hối đoái, vậy các bạn có để ý tới khái niệm **sức mua tương đương** chưa? Một ví dụ để dễ hiểu là nếu ở Nhật Bản cắt tóc mất khoảng 1000 yên (khoảng 200000 VND) còn ở Việt Nam chỉ mất tầm 50000 VND mà thôi, trong khi tỷ giá 1 yên = 200 VND. Để so sánh chính xác hơn về mức sống, ta thử ví dụ quy đổi đô la Mỹ sang sức mua tương đương, một ổ bánh mì ở Việt Nam cỡ 20000 VND (khoảng 1 đô la Mỹ) trong khi ở Mỹ phải bỏ ra 5 đô la tức là hơn 100000 VND. Vậy, do đâu mà đồng tiền mất giá? Có hai lý do: lạm phát và sự điều chỉnh của Ngân hàng nhà nước. Trở lại năm 1975, tỷ giá USD/VND thì 1 USD bằng 1.51 VND và bây giờ 1 USD bằng khoảng 23000 VND. Nhưng rõ ràng, chúng ta vào năm đó vẫn rất nghèo còn bây giờ đất nước ta đang trong giai đoạn phát triển. Nghiên về lý do sự điều chỉnh của ngân hàng nhà nước đã làm cho đồng tiền VND mất giá. Tại sao phải làm vậy? Việc phá giá nội tệ là một biện pháp mà các nước xuất khẩu áp dụng để giành lợi thế thương mại trong quan hệ quốc tế. Điều cốt lõi của chính sách đó vẫn là sự giàu có thực chất và chất lượng cuộc sống của người dân ra sao đằng sau đồng tiền và chính sách. Một ví dụ dễ hiểu, giả sử cho 1 USD bằng 23000 VND, nước ta xuất khẩu một ổ bánh mì giá 1 USD, nhưng bây giờ 1 USD bằng 46000 VND thì sẽ mua được 2 ổ bánh mì, đồng nghĩa với việc nước ta xuất khẩu được thêm 1 ổ và các đối tác nước ngoài thấy rằng cũng là 1 USD tội gì không mua thêm nhiều hàng hóa hơn nữa. Từ đó, xuất khẩu nước ta tăng, chúng ta cần làm ra nhiều hàng hóa hơn, cần nhiều nhân công hơn, giảm tỷ lệ thất nghiệp trong nước. Vì việc phá giá nội tệ làm tăng lạm phát, nên phải được giữ trong sự quản lý của nhà nước một cách hợp lý, không phá giá bừa bãi, tránh ảnh hưởng xấu đến nền kinh tế. 
 
 ## 1.1. Bản chất của tài chính
 ### 1.1.1. Sự ra đời, tồn tại và phát triển của tài chính
