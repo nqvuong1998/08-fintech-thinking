@@ -1,3 +1,9 @@
+# Bài luận về Lý thuyết về tài chính và tiền tệ
+
+### ---Nguyễn Quốc Vương (vuongnq4)---
+
+---------------------------------------------------------------
+
 Để hiểu cách vận hành của nền kinh tế, tài chính thì việc hiểu lý thuyết về tài chính và tiền tệ là cần thiết. Bài viết của tôi nêu ra một số khái niệm quan trọng, để từ đó chúng ta có thể thỏa mãn mục tiêu đề ra của việc tìm hiểu đề tài về tài chính - tiền tệ và có một cái nhìn rõ hơn về tiền tệ, tài chính của nước ta hay rộng hơn là của thế giới.
 
 Cuối thời kỳ công xã nguyên thuỷ, sản xuất và trao đổi hàng hoá được hình thành và phát triển thì xuất hiện "vật ngang giá chung" với vai trò trung gian trao đổi. Vật ngang giá chung: vỏ sò, xương thú, vòng đá,... cho đến kim loại (kẽm, đồng, bạc, rồi vàng vào đầu thế kỉ 19), "kim loại tiền tệ". "Vật ngang giá chung" được thay bằng "tiền tệ".
