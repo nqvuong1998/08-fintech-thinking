@@ -12,7 +12,9 @@ https://techtalk.vn/tag/fintech
 
 https://vnreview.vn/tin-tuc-xa-hoi-so/-/view_content/content/2105608/fintech-la-gi-ma-lai-duoc-coi-la-cuoc-cach-mang-de-doa-he-thong-ngan-hang-toan-cau
 
+http://www.finsmes.com/2019/01/fintech-the-evolution-of-financial-technology.html
 
+https://www.e-zigurat.com/innovation-school/blog/evolution-of-fintech/
 
 ---------------------------------------------------------------
 
@@ -20,7 +22,7 @@ Fintech là từ khoá mới nổi gần đây và nhận được sự quan tâ
 
 # Fintech là gì
 
-Fintech là sự kết hợp giữa Finance (tiền tệ, tài chính) và Technology (công nghệ), hiểu nôm na là công nghệ tài chính. Giải thích một cách đơn giản, thì fintech đề cập đến việc tận dụng sự sáng tạo công nghệ để sử dụng trong các hoạt động, dịch vụ tài chính. Fintech không bắt nguồn từ những hệ thống tiền tệ hiện có, mà nó đánh dấu sự xâm lấn của IT vào những hệ thống tiền tệ đó.
+Fintech là sự kết hợp giữa Financial (tiền tệ, tài chính) và Technology (công nghệ), hiểu nôm na là công nghệ tài chính. Giải thích một cách đơn giản, thì fintech đề cập đến việc tận dụng sự sáng tạo công nghệ để sử dụng trong các hoạt động, dịch vụ tài chính. Fintech không bắt nguồn từ những hệ thống tiền tệ hiện có, mà nó đánh dấu sự xâm lấn của IT vào những hệ thống tiền tệ đó.
 
 # bức tranh tổng quan về cuộc cách mạng FinTech
 
