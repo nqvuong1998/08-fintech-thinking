@@ -16,6 +16,10 @@ http://www.finsmes.com/2019/01/fintech-the-evolution-of-financial-technology.htm
 
 https://www.e-zigurat.com/innovation-school/blog/evolution-of-fintech/
 
+http://sob.ueh.edu.vn/wp-content/uploads/2018/11/19.-DANG-THI-NGOC-LAN.pdf
+
+http://sob.ueh.edu.vn/wp-content/uploads/2018/11/3.-NGUYEN-THI-HIEN-MINH-NGOC.pdf
+
 ---------------------------------------------------------------
 
 Fintech là từ khoá mới nổi gần đây và nhận được sự quan tâm của nhiều người, nhất là những người thuộc lĩnh vực công nghệ và tài chính. Vậy Fintech là gì, tại sao nó lại nổi bật và tiềm năng của Fintech như thế nào trong tương lai.
@@ -26,6 +30,9 @@ Fintech là sự kết hợp giữa Financial (tiền tệ, tài chính) và Tec
 
 # bức tranh tổng quan về cuộc cách mạng FinTech
 
+http://www.finsmes.com/2019/01/fintech-the-evolution-of-financial-technology.html
+
+https://www.e-zigurat.com/innovation-school/blog/evolution-of-fintech/
 
 # Các nhóm đối tượng của Fintech
 
@@ -200,8 +207,24 @@ Fintech được xem là bứt phá lớn về công nghệ trong tài chính. V
 
 # Những khó khăn và ưu thế của các công ty này cũng như vai trò của FinTech trong nền kinh tế.
 
+https://www.transunion.com/blog/pros-cons-seven-common-characteristics-of-fintech-startups
+
+http://tapchitaichinh.vn/nghien-cuu-trao-doi/nghien-cuu-dieu-tra/phat-trien-cong-nghe-tai-chinh-tai-viet-nam-co-hoi-va-thach-thuc-142310.html
+
+http://tiasang.com.vn/-doi-moi-sang-tao/Fintech-Nhieu-tiem-nang-phat-trien-nhung-con-rao-can-phap-ly-14028
+
+https://techinsight.com.vn/fintech-va-tac-dong-toi-nganh-tai-chinh-ngan-hang-trong-chuyen-doi-so/
+
+http://tapchitaichinh.vn/nghien-cuu-trao-doi/nghien-cuu-dieu-tra/tac-dong-cua-cach-mang-cong-nghiep-40-den-thi-truong-tai-chinh-viet-nam-145716.html
+
 # tác động của fintech với công ty tài chính dịch vụ, ví dụ minh họa cụ thể. 
 
 # Xu hướng hiện tại và tương lai của FinTech.
 
+https://techtalk.vn/bat-ngo-voi-8-xu-huong-fintech-trong-nam-2019.html
+
 # các lĩnh vực công nghệ ảnh hưởng đến FinTech: công nghệ nhận dạng và quyền riêng tư, blockchain và mã hóa, phân tích dữ liệu lớn, AI và tự động hóa,...
+
+http://www.europarl.europa.eu/doceo/document/A-8-2017-0176_EN.html
+
+https://www.startus-insights.com/innovators-guide/fintech-innovation-map-reveals-emerging-technologies/
