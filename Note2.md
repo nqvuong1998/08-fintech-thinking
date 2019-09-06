@@ -75,7 +75,7 @@ Trong năm 2016, các công ty startup của Fintech đã nhận được 17,4 t
 # Tác động của Fintech đối với ngành tài chính
 
 - Làm thay đổi kênh phân phối và các sản phẩm dịch vụ tài chính truyền thống:
-Tác động lớn nhất là đối với ngành dịch vụ ngân hàng. Chúng ta có thể thấy rõ qua xu thế ngày một phát triển mạnh trong những năm gần đây của mạng xã hội, ngân hàng kỹ thuật số, mobile banking, tablet banking, các kênh bán hàng qua internet,…
+Tác động lớn nhất là đối với ngành dịch vụ ngân hàng. Chúng ta có thể thấy rõ qua xu thế ngày một phát triển mạnh trong những năm gần đây của mạng xã hội, ngân hàng kỹ thuật số, mobile banking, tablet banking, các kênh bán hàng qua internet,...
 
 - Tổ chức tài chính, ngân hàng "không giấy":
 Việc xu hướng này trở nên phổ biến cũng sẽ trở thành thách thức không hề nhỏ đối với các ngành dịch vụ tài chính truyền thống trong việc giảm dần vai trò của các chi nhánh. Đồng thời, sự cạnh tranh công nghệ tài chính hiện đại cũng sẽ trở nên gay gắt hơn trong các định chế tài chính.
