@@ -159,4 +159,14 @@ Từ năm 2016, NHNN đã được giao làm cơ quan đầu mối điều phố
 
 Có thách thức cũng có cơ hội, điều quan trọng là các công ty khởi nghiệp Fintech cần việc qua thách thức và tận dụng cơ hội đang có.
 
-# 14. 
+# 14. Một số công nghệ trong FIntech
+
+- Blockchain: Ngoài việc sử dụng tiền điện tử cho các giao dịch trực tuyến riêng tư và nhanh chóng, blockchain còn cung cấp một sổ cái minh bạch, an toàn, bất biến và đáng tin cậy để ghi lại các hợp đồng, giao dịch và hồ sơ.
+
+- Big Data: Ngoài việc thu thập dữ liệu tài chính truyền thống, các nguồn dữ liệu mới như mobile banking và IoT cung cấp thêm một lớp dữ liệu thu thập được. Kết hợp với AI, Big Data sử dụng một lượng lớn dữ liệu cũ và mới để khám phá các rủi ro và phát hiện gian lận tốt hơn, giúp cải thiện sự hiểu biết về hành vi của khách hàng và giúp các ngân hàng tạo ra các sản phẩm dịch vụ tốt hơn.
+
+- Artificial Intelligence (AI): AI giúp các ngân hàng phân tích Big Data của họ để cải thiện các giải pháp hiện có và đưa ra quyết định tốt hơn. Một chatbot AI thông minh hơn hoặc trợ lý ảo có thể đảm nhận các hoạt động có giá trị thấp, lặp đi lặp lại, như thực hiện các giao dịch số lượng nhỏ, giải thích các sản phẩm tài chính và cung cấp tư vấn tài chính cơ bản cho khách hàng.
+
+- Regulatory Technology (RegTech): Hàu hết RegTech là các dịch vụ và công cụ sử dụng Big Data và Cloud Computing để tăng cường khả năng giám sát, báo cáo và tuân thủ các quy định của công ty. Các công ty sử dụng AI và predictive analytics để tự động hóa các nhiệm vụ cần tuân thủ, giảm gian lận, rủi ro, xác thực và quản lý danh tính.
+
+- Biometrics: Được xem là giải pháp cứu cánh của an toàn và bảo mật dữ liệu. Chúng sử dụng tính chất sinh học duy nhất của cá nhân như vân tay, khuôn mặt, giọng nói, võng mạc và các hình thức nhận dạng khác để tăng cường bảo mật và xác định danh tính.
