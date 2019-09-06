@@ -95,31 +95,23 @@ Hiện tại các vấn đề của Fintech chủ yếu nằm ở security, vi p
 
 Tuy nhiên, cùng với IoT, VR, Fintech cũng sẽ là 1 lĩnh vực sẽ có nhiều đột phá và sáng tạo trong tương lai.
 
-# 11. Fintech tại Việt Nam
+Fintech tạo ra cơ hội cũng như thách thức đối với hệ thống ngân hàng và cùng với đó là xu hướng hình thành mối quan hệ hợp tác giữa Fintech và các ngân hàng.
+
+Vai trò của Ngân hàng Nhà nước là rất quan trọng trong việc hoàn thiện hệ sinh thái, thúc đẩy sự phát triển và hợp tác giữa các công ty Fintech với các ngân hàng thương mại.
+
+# 11. Xu hướng phát triển của Fintech thế giới
+
+- Fintech sẽ ngày càng thâm nhập mạnh mẽ hơn vào các lĩnh vực dịch vụ mà ngân hàng cung cấp, trong đó bên cạnh những lĩnh vực truyền thống vốn là thế mạnh của ngân hàng là thanh toán và cho vay, Fintech sẽ tiếp tục phát triển sang những lĩnh vực có nhiều tiềm năng khác như dịch vụ chuyển tiền quốc tế, cho vay ngang hàng, gọi vốn cộng đồng,...
+
+- Fintech sẽ tiếp tục đi đầu trong việc ứng dụng các công nghệ mới, nâng cao tiện ích cho người sử dụng cũng như mức độ bảo mật cho khách hàng. Ví dụ như, việc phát triển các công cụ tự phục vụ như Internet Banking và Mobile Banking; cung cấp các giải pháp số hóa cho ngành ngân hàng; cung cấp các giải pháp về POS thế hệ mới như POS sử dụng công nghệ giao tiếp trường gần NFC hoặc mã QR; cung cấp giải pháp công nghệ giúp tăng cường bảo mật khách hàng từ các hoạt động gian lận, làm giả tài khoản và ăn cắp thông tin; phát triển các giải pháp thanh toán ngang hàng và ví điện tử, sử dụng công nghệ phi tiếp xúc cho ví điện tử; áp dụng rộng rãi công nghệ Blockchain trong lĩnh vực tài chính – ngân hàng; sử dụng các công nghệ hiện đại và dữ liệu từ mạng xã hội để nâng cao các quyết định đầu tư...
+
+Như vậy, có thể nhận thấy trong những xu hướng phát triển của Fintech trong thời gian tới sẽ tiếp tục chứng kiến sự thâm nhập mạnh mẽ của Fintech vào các lĩnh vực trong ngành ngân hàng. Điều này có thể tạo ra những cơ hội cũng như những thách thức đối với hệ thống ngân hàng trong quá trình phát triển dưới kỷ nguyên công nghệ 4.0.
+
+# 12. Fintech tại Việt Nam
 
 Cùng với tiến trình phát triển kinh tế – xã hội, hệ thống các tổ chức tín dụng đã phát triển mạnh mẽ với mạng lưới trải rộng khắp cả nước, cung cấp các dịch vụ ngày càng đa dạng cho người dân và doanh nghiệp.
 
 Tuy nhiên, trong khi người dân ở thành thị và các doanh nghiệp lớn khá dễ dàng tiếp cận các dịch vụ ngân hàng thì những người dân ở khu vực nông thôn, vùng sâu, vùng xa, những người di cư ra thành thị cũng như các doanh nghiệp siêu nhỏ, doanh nghiệp nhỏ và vừa vẫn gặp một số trở ngại khi tiếp cận các dịch vụ ngân hàng.
-
-Từ năm 2016, NHNN đã được giao làm cơ quan đầu mối điều phối chung về tài chính toàn diện tại Việt Nam.
-
-# 12. Các xu hướng của fintech
-
-- Trợ lý kỹ thuật số nhân tạo (Artificial Digital Assistant): Điển hình là chatbot, nó cho phép khách hàng trò chuyện thuận tiện với robot trong thời gian thực và nhận được câu trả lời chính xác.
-
-- Ngân hàng kỹ thuật số (Digital-only Banks): Các ngân hàng kỹ thuật số đang ngày càng trở nên phổ biến vì họ có thể cung cấp được các dịch vụ tại nhà hoặc văn phòng của khách hàng mà không cần phải đến ngân hàng, từ giờ khách hàng có thể truy cập vào ngân hàng qua các trang web và ứng dụng.
-
-- Sự sụp đổ của tiền giấy: Các giải pháp thanh toán hiện nay rất nhiều, đặc biệt là với sự gia tăng của tiền điện tử. Các cá nhân, cũng như các công ty đang dần thay thế các các hệ thống ngân hàng truyền thống nhằm giảm thiểu hoặc tránh những hạn chế về rủi ro.
-
-- Công nghệ sinh trắc học (Biometric technologies): Một số ngân hàng đã bắt đầu đầu tư vào xác thực dựa trên sinh trắc học, sử dụng máy ảnh smartphone để quét con ngươi và vân tay có sẵn từ điện thoại.
-
-- Blockchain: Nó làm giảm bớt giấy tờ vì nó cập nhật dựa vào kỹ thuật số trong thời gian thực trong khi các ngân hàng lưu trữ tất cả các hồ sơ theo một cách không thay đổi.
-
-- Hợp tác thông minh (Smart Collaborations): MasterCard’s Start Path là một ví dụ.
-
-- Tự động hóa: Điều này có ý nghĩa gì với khách hàng? Ít thời gian hơn và hiệu quả cao hơn trong các hệ thống ngân hàng.
-
-- Sự phát triển của việc cho vay dữ liệu: Big data luôn là vấn đề lớn đối với bất kỳ ngành nào và ngành tài chính cũng không ngoại lệ. Cuộc cách mạng Fintech đã tìm cách thay thế điểm tín dụng FICO thông qua việc cho vay dữ liệu.
 
 # 13. Thách thức và lợi ích của các công ty khởi nghiệp Fintech
 
@@ -159,7 +151,7 @@ Từ năm 2016, NHNN đã được giao làm cơ quan đầu mối điều phố
 
 Có thách thức cũng có cơ hội, điều quan trọng là các công ty khởi nghiệp Fintech cần việc qua thách thức và tận dụng cơ hội đang có.
 
-# 14. Một số công nghệ trong FIntech
+# 14. Một số công nghệ trong Fintech
 
 - Blockchain: Ngoài việc sử dụng tiền điện tử cho các giao dịch trực tuyến riêng tư và nhanh chóng, blockchain còn cung cấp một sổ cái minh bạch, an toàn, bất biến và đáng tin cậy để ghi lại các hợp đồng, giao dịch và hồ sơ.
 
@@ -167,6 +159,20 @@ Có thách thức cũng có cơ hội, điều quan trọng là các công ty kh
 
 - Artificial Intelligence (AI): AI giúp các ngân hàng phân tích Big Data của họ để cải thiện các giải pháp hiện có và đưa ra quyết định tốt hơn. Một chatbot AI thông minh hơn hoặc trợ lý ảo có thể đảm nhận các hoạt động có giá trị thấp, lặp đi lặp lại, như thực hiện các giao dịch số lượng nhỏ, giải thích các sản phẩm tài chính và cung cấp tư vấn tài chính cơ bản cho khách hàng.
 
-- Regulatory Technology (RegTech): Hàu hết RegTech là các dịch vụ và công cụ sử dụng Big Data và Cloud Computing để tăng cường khả năng giám sát, báo cáo và tuân thủ các quy định của công ty. Các công ty sử dụng AI và predictive analytics để tự động hóa các nhiệm vụ cần tuân thủ, giảm gian lận, rủi ro, xác thực và quản lý danh tính.
+- Regulatory Technology (RegTech): Hầu hết RegTech là services và tools sử dụng Big Data và Cloud Computing để tăng cường khả năng giám sát, báo cáo và tuân thủ các quy định của công ty. Các công ty sử dụng AI và predictive analytics để tự động hóa các nhiệm vụ cần tuân thủ, giảm gian lận, rủi ro, xác thực và quản lý danh tính.
 
 - Biometrics: Được xem là giải pháp cứu cánh của an toàn và bảo mật dữ liệu. Chúng sử dụng tính chất sinh học duy nhất của cá nhân như vân tay, khuôn mặt, giọng nói, võng mạc và các hình thức nhận dạng khác để tăng cường bảo mật và xác định danh tính.
+
+# 15. Một số công ty fintech nổi tiếng
+
+- Ở Việt Nam, có thể kể ra như: Momo (ví momo), thanh toán Ngân Lượng, thanh toán Bảo Kim, Zalopay, mPOS, 1Pay, 123Pay, Payoo, VinaPay, quản lý dữ liệu tài chính cá nhân (OnePay, BankGo, MoneyLover), Mobivi,...
+
+- Trên thế giới, có: Ant Financial/Alipay, Paytm, Credit Karma, Visa, Paypal, Stripe,...
+
+# 16. Đôi lời cảm nhận
+
+Cùng với sự phát triển kinh tế - xã hội ở Việt Nam, hệ thống tín dụng của ngày càng phát triển và đa dạng. Những năm gần đây, số lượng các công ty và ứng dụng Fintech xuất hiện ngày càng nhiều
+
+# 17. Kết luận
+
+Fintech được xem là bứt phá lớn về công nghệ trong tài chính. Với những thành tựu đã đạt được và tiềm năng có thể trông thấy trong tương lai, Fintech chắc chắn sẽ còn vươn xa.
